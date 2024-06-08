@@ -1,12 +1,14 @@
-<img src="https://telegra.ph/file/4bc2d22b9d9a29d9edb52.jpg" alt="logo" target="/blank">
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+ALEX-ID;RENAME+TELIGRAM+BOT;DEVELOPED+BY+MR_ALEX_ID;RELEASED+DATE+08%2F06%2F2024." alt="Typing SVG" /></a>
+</p>
 
 <h1 align="center">
  <b><a href="https://t.me/itachi_rename_bot" target="/blank"> Alex Rename Bot 2GB </a></>
 </h1>
 
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+PSYCHO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+PSYCHO_BABA;RELEASED+DATE+13%2F04%2F2024." alt="Typing SVG" /></a>
-</p>
+<img src="https://telegra.ph/file/4bc2d22b9d9a29d9edb52.jpg" alt="logo" target="/blank">
+
 
 ### CONFIGS VARIABLES
 
