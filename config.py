@@ -36,7 +36,7 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 ╭───────────────⍟
 ├<b>✯ My Name</b> : {}
 ├<b>✯ Developer</b> : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a> 
-├<b>✯ Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
+├<b>✯ AlexPrograms</b> : <a href=https://t.me/mr_alex_id</a>
 ├<b>✯ Language</b> : <a href=https://www.python.org>Python 3</a>
 ├<b>✯ Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
 ├<b>✯ Build Version</b> : <a href=https://t.me/FilmZone_World>Rename v4.5.0</a></b>     
@@ -66,7 +66,7 @@ Maintained By : <a href=https://t.me/Mr_Alex_id>Mr_Alex_id</a></b>"""
 ➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].     
 <b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Mr_alex_id>Mr_alex_id</a></b>"""
 
-    PROGRESS_BAR = """\n
+    ALEX_PROGRESS_BAR = """\n
 <b>╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣</b>
 <b>┣⪼ 🗃 Sɪᴢᴇ: <code>{1}|{2}</code></b>
 <b>┣⪼ ⏳️ Dᴏɴᴇ : <code>{0}%</code></b>
