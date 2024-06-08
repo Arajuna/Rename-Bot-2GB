@@ -44,6 +44,9 @@
 </p>
 
 
+### Alex Id Progarams
+
+<summary>Youtube Channel</summary>
 
 
 
@@ -92,11 +95,11 @@ status - Check bot status [FOR ADMINS USE ONLY].
 
 ### 😍 BOTS CHANNEL 😍
 - [Alex Botz](https://t.me/FilmZone_World)
-- [Jishu Botz](https://t.me/Mr_Alex_id)
+- [Alex Botz](https://t.me/Mr_Alex_id)
 
 ### 💕 CONTACT DEVELOPER 💕
-- [Jishu Developer](https://t.me/Mr_Alex_id)
-- [Madflix Official](https://t.me/FilmZone_World)
+- [Alex Developer](https://t.me/Mr_Alex_id)
+- [AlexId Official](https://t.me/FilmZone_World)
 
 ### ☕ BUY ME A COFFEE ☕
 - [PayPal](https://paypal.me/jishudeveloper/2.50USD)
