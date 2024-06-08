@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/77d2eddf9657a87acb881.jpg" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/4bc2d22b9d9a29d9edb52.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/itachi_rename_bot" target="/blank"> Rename Bot 2GB </a></>
@@ -88,12 +88,12 @@ status - Check bot status [FOR ADMINS USE ONLY].
 - [lntechnical](https://github.com/lntechnical2)
 
 ### 😍 BOTS CHANNEL 😍
-- [Madflix Botz](https://t.me/Madflix_Bots)
-- [Jishu Botz](https://t.me/JishuBotz)
+- [Alex Botz](https://t.me/FilmZone_World)
+- [Jishu Botz](https://t.me/Mr_Alex_id)
 
 ### 💕 CONTACT DEVELOPER 💕
-- [Jishu Developer](https://t.me/JishuDeveloper)
-- [Madflix Official](https://t.me/MadflixOfficials)
+- [Jishu Developer](https://t.me/Mr_Alex_id)
+- [Madflix Official](https://t.me/FilmZone_World)
 
 ### ☕ BUY ME A COFFEE ☕
 - [PayPal](https://paypal.me/jishudeveloper/2.50USD)
