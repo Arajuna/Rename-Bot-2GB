@@ -1,10 +1,10 @@
 <img src="https://telegra.ph/file/4bc2d22b9d9a29d9edb52.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
- <b><a href="https://t.me/itachi_rename_bot" target="/blank"> Rename Bot 2GB </a></>
+ <b><a href="https://t.me/itachi_rename_bot" target="/blank"> Alex Rename Bot 2GB </a></>
 </h1>
 
-<p align="center">🩵 Thanks for Being Here 🩵</p>
+<p align="center">🩵 Thanks for use Alex rename bot 🩵</p>
 
 
 ### CONFIGS VARIABLES
